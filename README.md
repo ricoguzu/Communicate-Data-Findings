@@ -1,2 +1,3 @@
 # Communicate-Data-Findings
 Used Exploratory and Explanatory Data visualizations
+Demonstrate the Importance and value of data visualization techniques. Part 1: Exploratory Data Visualization- use Python visualization libraries to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. Part 2: Explanatory-produce a short presentation that illustrates interesting properties, trends, and relationships that you discovered in your selected dataset. The primary method of conveying your findings will be through transforming your exploratory visualizations from the first part into polished, explanatory visualizations. 
